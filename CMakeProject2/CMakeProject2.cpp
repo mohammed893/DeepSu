@@ -1,5 +1,6 @@
-﻿#include "include/graph.hpp"
-
+﻿
+#include "include/graph.hpp"
+using namespace std;
 int main() {
     // Define tensors
     Node* a = new Node();
